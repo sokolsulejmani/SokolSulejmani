@@ -1,9 +1,9 @@
 # ***Hi there!*** 👋
 
-    Name:           Sokol Sulejmani
-    Role:           Cloud Consultant
-    Company:        Conclusion Zuyd
-    Based:          Netherlands
+    ##Name:           Sokol Sulejmani##
+    ##Role:           Cloud Consultant##
+    ##Company:        Conclusion Zuyd##
+    ##Based:          Netherlands##
 
 ### **Interests:**
 
