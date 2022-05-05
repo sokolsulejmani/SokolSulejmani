@@ -41,4 +41,4 @@
 
 <!-- Links to your social media accounts -->
 
-[2]: https://www.linkedin.com/in/sokol-sulejmani-60345a132/
+[2]: https://www.linkedin.com/in/sokolsulejmani/
