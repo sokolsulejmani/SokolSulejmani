@@ -2,7 +2,7 @@
 
     Name:           Sokol Sulejmani
     Role:           Cloud Consultant
-    Company:        Conclusion Zuyd
+    Company:        Conclusion Mediaan
     Based:          Netherlands
 
 ### **Interests:**
