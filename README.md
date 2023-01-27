@@ -1,8 +1,8 @@
 # ***Hi there!*** 👋
 
     Name:           Sokol Sulejmani
-    Role:           Cloud Consultant
-    Company:        Conclusion Mediaan
+    Role:           Azure Cloud Engineer
+    Company:        Conclusion Enablement
     Based:          Netherlands
 
 ### **Interests:**
