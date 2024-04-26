@@ -1,8 +1,8 @@
 # ***Hi there!*** 👋
 
     Name:           Sokol Sulejmani
-    Role:           Azure Cloud Engineer
-    Company:        Conclusion Enablement
+    Role:           Platform Engineer
+    Company:        RawWorks
     Based:          Netherlands
 
 ### **Interests:**
